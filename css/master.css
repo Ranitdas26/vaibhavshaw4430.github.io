@@ -21,20 +21,20 @@
    }
 
   footer {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
   }
 
   h1 {
-    margin-bottom: 0.5rem;
-    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    margin-top: 4rem;
    }
 
   h2 {
     /* set the text color of to #075AAB here */color: #075AAB;
     /* set both the bottom margin and top margin to 2.5rem here */
-    margin-bottom : 2.5rem;
-    margin-top: 2.5rem;
+    margin-bottom : 3rem;
+    margin-top: 3rem;
    }
 
   h3 {
@@ -44,11 +44,11 @@
 
   h4 {
     margin-bottom: 1rem;
-    margin-top: 0.5rem;
+    margin-top: 1.5rem;
   }
 
   h5 {
-    margin-top: 0.5rem;
+    margin-top: 1.5rem;
   }
 
   hr {
